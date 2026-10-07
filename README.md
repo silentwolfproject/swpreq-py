@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/silentwolf/swpreq-py/main/assets/banner.png](https://raw.githubusercontent.com/silentwolfproject/swpreq-py/refs/heads/main/assets/banner.png)" alt="swpreq" width="100%" />
+<img src="https://raw.githubusercontent.com/silentwolf/swpreq-py/main/assets/banner.png" alt="swpreq" width="100%" />
 
 # swpreq
 
