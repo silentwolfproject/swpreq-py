@@ -8,10 +8,10 @@
 
 Up to **21.10x faster than `requests`** in the tested asynchronous concurrent workload.
 
-[![PyPI](https://img.shields.io/pypi/v/swpreq.svg)](https://pypi.org/project/swpreq/)
-[![Python](https://img.shields.io/pypi/pyversions/swpreq.svg)](https://pypi.org/project/swpreq/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Android-lightgrey.svg)](#platform-support)
+[![PyPI](https://img.shields.io/badge/version-0.1.0-orange?style=for-the-badge)](https://pypi.org/project/swpreq/)
+[![Python](https://img.shields.io/badge/Python-Compatible-blue?style=for-the-badge)](https://pypi.org/project/swpreq/)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Cross--Platform-purple?style=for-the-badge)](https://pypi.org/project/swpreq/)
 
 [Installation](#installation) ·
 [Quick Start](#quick-start) ·
