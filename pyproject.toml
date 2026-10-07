@@ -4,15 +4,28 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "swpreq"
-version = "0.1.0.post1"
-description = "Powerful cross-language HTTP client with Rust core"
+version = "0.2.0"
+description = "High-performance HTTP client for Python with a Rust core"
 readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "MIT" }
-authors = [{ name = "silentwolfproject" }]
-keywords = ["http", "client", "async", "requests", "rust", "websocket", "http2", "swpreq"]
+authors = [{ name = "SilentWolfProject" }]
+keywords = [
+    "http",
+    "client",
+    "async",
+    "requests",
+    "rust",
+    "websocket",
+    "http2",
+    "sse",
+    "streaming",
+    "multipart",
+    "oauth",
+    "swpreq",
+]
 classifiers = [
-    "Development Status :: 3 - Alpha",
+    "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
@@ -34,10 +47,10 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/silentwolf/swpreq-py"
-Repository = "https://github.com/silentwolf/swpreq-py"
-Issues = "https://github.com/silentwolf/swpreq-py/issues"
-Changelog = "https://github.com/silentwolf/swpreq-py/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/silentwolfproject/swpreq-py"
+Repository = "https://github.com/silentwolfproject/swpreq-py"
+Issues = "https://github.com/silentwolfproject/swpreq-py/issues"
+Changelog = "https://github.com/silentwolfproject/swpreq-py/blob/main/CHANGELOG.md"
 
 [tool.setuptools]
 packages = ["swpreq"]

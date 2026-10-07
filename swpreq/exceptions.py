@@ -45,6 +45,15 @@ class EncodeError(SwpreqError):
 class NotFoundError(SwpreqError):
     pass
 
+class AuthError(SwpreqError):
+    pass
+
+class InvalidArgumentError(SwpreqError):
+    pass
+
+class IOError(SwpreqError):
+    pass
+
 
 class HTTPError(SwpreqError):
     def __init__(self, message, status_code=None, response=None):
@@ -64,6 +73,7 @@ _ERROR_MAP = {
     8: SwpreqError,
     9: SwpreqError,
     10: NotFoundError,
+    11: AuthError,
     99: SwpreqError,
 }
 

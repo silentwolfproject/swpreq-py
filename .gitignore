@@ -14,4 +14,5 @@ htmlcov/
 Thumbs.db
 *.log
 test.py
+test2.py
 swpreq.egg-info/
