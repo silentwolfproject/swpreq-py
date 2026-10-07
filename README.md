@@ -11,7 +11,7 @@ Up to **21.10x faster than `requests`** in the tested asynchronous concurrent wo
 [![PyPI](https://img.shields.io/badge/version-0.1.0-orange?style=for-the-badge)](https://pypi.org/project/swpreq/)
 [![Python](https://img.shields.io/badge/Python-Compatible-blue?style=for-the-badge)](https://pypi.org/project/swpreq/)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Cross--Platform-white?style=for-the-badge)](https://pypi.org/project/swpreq/)
+[![Platform](https://img.shields.io/badge/Platform-Cross--Platform-purple?style=for-the-badge)](https://pypi.org/project/swpreq/)
 
 [Installation](#installation) ·
 [Quick Start](#quick-start) ·
